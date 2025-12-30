@@ -1,0 +1,5 @@
+{
+  "name": "Future Trend Forecaster",
+  "description": "An application that acts as a Future Trend Forecaster, analyzing industry trajectories and suggesting strategic moves to stay ahead of the curve, powered by Gemini.",
+  "requestFramePermissions": []
+}
